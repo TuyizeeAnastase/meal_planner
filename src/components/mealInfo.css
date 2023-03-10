@@ -1,0 +1,42 @@
+.subtle {
+    color: #aaa;
+  }
+  
+  .container{
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100vh;
+    z-index: 10;
+    background: rgba(0, 0, 0, 0.75);
+  }
+  
+  .card-container {
+    margin: 25px auto 0;
+    position: relative;
+  }
+  
+  .card {
+    background-color: #fff;
+    padding: 30px;
+    position: fixed;
+    box-shadow: 0 0 5px rgba(75, 75, 75, .07);
+    z-index: 1;
+    top: 10vh;
+    left: 10%;
+    width: 70%;
+  }
+
+  .card-body {
+    display: inline-block;
+    width: 310px;
+  }
+  .card-read{
+    color: orange;
+  }
+  /* .card-read ul{
+    display: flex;
+  width: 35rem;
+  justify-content: space-evenly;
+  } */

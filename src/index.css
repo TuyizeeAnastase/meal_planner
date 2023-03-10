@@ -1,0 +1,110 @@
+.App{
+  margin-top: 2rem;
+}
+.App label{
+   margin-right: 2rem;
+}
+.App input{
+  width: 500px;
+  height: 30px;
+  border-radius: 5px;
+  margin-right: 2px;
+}
+button {
+  width: 100px;
+  padding: 0.5rem 1rem;
+  background-color: #2164eb;
+  color: #f3f3f3;
+  border: none;
+  border-radius: 5px;
+  font-family: "Roboto", sans-serif;
+  font-size: 1rem;
+}
+
+button:hover {
+  background-color: #2164eb;
+  cursor: pointer;
+}
+
+main {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+h1 {
+  text-align: center;
+  margin-bottom: 2rem;
+}
+
+.nutrients {
+  display: flex;
+  justify-content: flex-start;
+  font-size: 0.9rem;
+  margin-left: -8px;
+}
+
+.card{
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.meals {
+  display: flex;
+}
+
+img {
+  width: 100%;
+  margin-bottom: 1rem;
+}
+
+article {
+  display: flex;
+  flex-wrap: wrap;
+  padding: 2rem;
+  margin: 04rem 1rem;
+  max-width: 300px;
+  box-shadow: 0 4px 8px 2px rgba(77, 77, 77, 0.15);
+}
+article div{
+  flex: 1 1 160px;
+}
+
+ul {
+  list-style: none;
+}
+
+.instructions {
+  font-size: 0.9rem;
+  margin-bottom: 1rem;
+  list-style-type: square;
+  text-align: left
+
+}
+
+a {
+  text-decoration: none;
+  background-color: #2164eb;
+  color: #f3f3f3;
+  width: fit-content;
+  padding: 0.5rem 1rem;
+}
+
+a:hover {
+  background-color: #2164eb;
+  cursor: pointer;
+}
+
+@media only screen and (max-width: 1024px) {
+  .meals {
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .nutrients ul {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 100%;
+  }
+}
