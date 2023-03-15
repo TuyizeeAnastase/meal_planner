@@ -1,36 +1,26 @@
-# BMI calculator
-Create a BMI calculator app using React Native
+## MealPlanner
+simple web app that allows users to search for recipes using Spoonacular API and React
 
 ## Project technology
-*  React
-*  React native
-*  expo
+*  Html
+*  javascript
+*  css
 
-## Tools
-* vs code
-* android studio
-* expo app
-* git bash
- 
+## quotes API
+ *  [quotes](https://type.fit/api/quotes)
+
  ## How run this project locally
- * install `node js` [node](https://nodejs.org/en/)
- * install android studion emulator [android studio](https://developer.android.com/studio)
- * install react native cli `npm install -g react-native-cli`
- * clone this repo `https://github.com/TuyizeeAnastase/BMI-calculator-app-using-React-Native.git`.
- * open project directory
+ * install `node js` and `npm`
+ *  clone this repo `git clone https://github.com/TuyizeeAnastase/meal_planner.git`.
+ *  open project directory
  * Run `npm install` to install packages
- * Run `npm run start`  
- * Run for android `npm run adnroid`
- * Run for ios `npm run start ios`
- * Run for web `npm run web`  
+ *  Run `npm run start` 
 
-## Documentation used
-* [react native](https://reactnative.dev/)
+## GET started with spoonacular APIs used
+* [spoonacular](https://spoonacular.com/food-api)
+* set up account
+* copy API KEY
+* [documentation](https://spoonacular.com/food-api/docs)
 
-## Author
- [portifolio](https://dynamic-cupcake-a269d9.netlify.app/)
- [twitter](https://twitter.com/tuyizereanasta3)
- [github](https://github.com/TuyizeeAnastase/)
- 
-## Demo images
- ![demo](https://res.cloudinary.com/duhetxdbs/image/upload/v1678880536/app_sv8swg.jpg)
+## Meal Detail app Page
+ ![homepage](https://res.cloudinary.com/duhetxdbs/image/upload/v1678457817/food_ba0yyx.png)
