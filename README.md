@@ -1,5 +1,5 @@
-# search for recipes
-simple web app that allows users to search for recipes using Spoonacular API and React
+# BMI calculator
+Create a BMI calculator app using React Native
 
 ## Project technology
 *  React
@@ -28,9 +28,9 @@ simple web app that allows users to search for recipes using Spoonacular API and
 * [react native](https://reactnative.dev/)
 
 ## Author
- ![portifolio](https://dynamic-cupcake-a269d9.netlify.app/)
- ![twitter](https://twitter.com/tuyizereanasta3)
- ![github](https://github.com/TuyizeeAnastase/)
+ [portifolio](https://dynamic-cupcake-a269d9.netlify.app/)
+ [twitter](https://twitter.com/tuyizereanasta3)
+ [github](https://github.com/TuyizeeAnastase/)
  
 ## Demo images
  ![demo](https://res.cloudinary.com/duhetxdbs/image/upload/v1678880536/app_sv8swg.jpg)
